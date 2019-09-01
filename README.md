@@ -2,6 +2,7 @@
 
 ## SpringBoot系列
 
+- [SpringBoot使用Guava做内存缓存](https://github.com/guangxush/SpringBoot_GuavaCache)
 - [基于SpringBoot的日志服务](https://github.com/guangxush/Vinus)
 - [SpringBoot调用kafka完成数据分发](https://github.com/guangxush/Mountain/blob/master/README_CN.md)
 - [什么是RPC](https://github.com/guangxush/SpringBoot_GRPC)
