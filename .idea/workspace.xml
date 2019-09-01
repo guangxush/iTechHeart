@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +30,8 @@
         <entry file="file://$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="245">
-                <caret line="273" column="139" lean-forward="true" selection-start-line="273" selection-start-column="13" selection-end-line="273" selection-end-column="139" />
+              <first_editor relative-caret-position="355">
+                <caret line="277" column="73" selection-start-line="277" selection-start-column="73" selection-end-line="277" selection-end-column="73" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,8 +42,8 @@
         <entry file="file://$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="334">
-                <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
+              <first_editor relative-caret-position="330">
+                <caret line="43" column="84" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="84" />
               </first_editor>
               <second_editor />
             </state>
@@ -117,8 +113,8 @@
         <option value="$PROJECT_DIR$/passage/排序算法.md" />
         <option value="$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md" />
         <option value="$PROJECT_DIR$/passage/无Root权限的Python+TensorFlow环境安装.md" />
-        <option value="$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md" />
       </list>
     </option>
   </component>
@@ -154,6 +150,12 @@
               <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="Passage" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
@@ -201,16 +203,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567305065595</updated>
-      <workItem from="1567305067104" duration="2848000" />
+      <workItem from="1567305067104" duration="3192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2848000" />
+    <option name="totallyTimeSpent" value="3192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="950" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -256,6 +257,16 @@
     <entry file="file://$PROJECT_DIR$/image/DesignPatterns/decorator3.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="371">
+            <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/passage/二叉树的遍历.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -276,16 +287,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="334">
-            <caret line="43" column="76" selection-start-line="43" selection-start-column="76" selection-end-line="43" selection-end-column="76" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passage/无Root权限的Python+TensorFlow环境安装.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -296,11 +297,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="371">
-            <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <first_editor relative-caret-position="330">
+            <caret line="43" column="84" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="84" />
           </first_editor>
           <second_editor />
         </state>
@@ -309,8 +310,8 @@
     <entry file="file://$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="245">
-            <caret line="273" column="139" lean-forward="true" selection-start-line="273" selection-start-column="13" selection-end-line="273" selection-end-column="139" />
+          <first_editor relative-caret-position="355">
+            <caret line="277" column="73" selection-start-line="277" selection-start-column="73" selection-end-line="277" selection-end-column="73" />
           </first_editor>
           <second_editor />
         </state>
