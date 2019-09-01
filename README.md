@@ -3,7 +3,8 @@
 ## SpringBoot系列
 
 - [SpringBoot调用kafka完成数据分发](https://github.com/guangxush/Mountain/blob/master/README_CN.md)
-- []()
+
+- [高并发请求如何处理](https://github.com/guangxush/WorkQueue/blob/master/README.md)
 
 
 ## 设计模式
