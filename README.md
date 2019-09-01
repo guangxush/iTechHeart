@@ -22,8 +22,8 @@
 
 ## 算法
 
-- [二叉树的遍历]()
-- [排序算法]()
+- [二叉树的遍历](https://github.com/guangxush/iTechHeart/blob/master/passage/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86.md)
+- [排序算法](https://github.com/guangxush/iTechHeart/blob/master/passage/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
 
 
 ## 插件
@@ -36,5 +36,5 @@
 
 ## 方法
 
-- [IDEA中SpringBoot项目Maven配置问题]()
-- [无Root权限的Python+TensorFlow环境安装]()
+- [IDEA中SpringBoot项目Maven配置问题](https://github.com/guangxush/iTechHeart/blob/master/passage/IDEA中SpringBoot项目Maven配置问题.md)
+- [无Root权限的Python+TensorFlow环境安装](https://github.com/guangxush/iTechHeart/blob/master/passage/%E6%97%A0Root%E6%9D%83%E9%99%90%E7%9A%84Python%2BTensorFlow%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.md)
