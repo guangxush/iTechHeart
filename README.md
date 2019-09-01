@@ -11,6 +11,7 @@
 - [高并发请求如何处理](https://github.com/guangxush/WorkQueue/blob/master/README.md)
 - [二阶段提交解决分布式事务一致性](https://github.com/guangxush/GoddoG)
 - [微服务动态属性配置](https://github.com/guangxush/Swallow)
+- [Spring Session + Redis实现Session共享](https://github.com/guangxush/SpringBoot_Redis)
 
 ## 设计模式
 
