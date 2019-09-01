@@ -9,3 +9,17 @@
 
 - [二叉树的遍历]()
 - [排序算法]()
+
+
+## 插件
+
+- [手动实现json解析](https://github.com/guangxush/wheel/tree/master/JSONParse/src)
+- [Java实现LRU和FIFO页面置换算法](https://github.com/guangxush/wheel/tree/master/PageReplace/src)
+- [ORM](https://github.com/guangxush/wheel/tree/master/ORM)
+- [JAVA实现多张PNG生成GIF图片](https://github.com/guangxush/GenerateGIF)
+
+
+## 方法
+
+- [IDEA中SpringBoot项目Maven配置问题]()
+- [无Root权限的Python+TensorFlow环境安装]()
