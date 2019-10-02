@@ -23,8 +23,6 @@ public class Test {
         Test test = new Test();
         String str = "abbsdd 2339001";
         Map map = test.statistics(str, "small2big");
-        test.print(map);
-        System.out.println("--------------");
         test.sortPrint(map);
     }
 
@@ -53,6 +51,7 @@ public class Test {
             @Override
             public int compare(Entry<Character, Integer> o1, Entry<Character, Integer> o2) {
                 int result = o1.getValue().compareTo(o2.getValue());
+                //如果value相同，那么按照key的ACSII码排序
                 if (result == 0) {
                     return o1.getKey().compareTo(o2.getKey());
                 }
@@ -69,7 +68,18 @@ public class Test {
 
 }
 ```
-
+结果输出：
+```text
+1出现的次数是:1
+2出现的次数是:1
+9出现的次数是:1
+a出现的次数是:1
+s出现的次数是:1
+0出现的次数是:2
+3出现的次数是:2
+b出现的次数是:2
+d出现的次数是:2
+```
 
 ### 案例分析2
 
@@ -102,7 +112,7 @@ public class PrintMinNumber {
 
 TreeMap默认对key进行排序，如果对Value进行排序可以放入List中然后重写Comparator
 
-```java
+```text
         Map<Character, Integer> map = null;
         switch (sort) {
             case "big2small":
