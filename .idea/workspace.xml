@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/passage/Java基础/Java对象克隆.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/Java基础/Java对象克隆.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +49,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象克隆.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="323" column="1" selection-start-line="323" selection-start-column="1" selection-end-line="323" selection-end-column="1" />
+              <first_editor relative-caret-position="405">
+                <caret line="369" column="4" selection-start-line="369" selection-start-column="4" selection-end-line="369" selection-end-column="4" />
                 <folding>
                   <element signature="e#404#405#0" expanded="true" />
                   <element signature="e#430#431#0" expanded="true" />
@@ -131,11 +131,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="267">
+                <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -205,6 +207,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/passage/Linux服务器命令.md" />
         <option value="$PROJECT_DIR$/passage/Java基础/Java对象克隆.md" />
+        <option value="$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md" />
       </list>
     </option>
   </component>
@@ -292,12 +295,12 @@
       <workItem from="1567322839328" duration="14000" />
       <workItem from="1568038361899" duration="501000" />
       <workItem from="1569467999992" duration="1018000" />
-      <workItem from="1569985068570" duration="2676000" />
+      <workItem from="1569985068570" duration="4160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11087000" />
+    <option name="totallyTimeSpent" value="12571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="950" extended-state="0" />
@@ -399,14 +402,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -450,8 +445,8 @@
     <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象克隆.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="323" column="1" selection-start-line="323" selection-start-column="1" selection-end-line="323" selection-end-column="1" />
+          <first_editor relative-caret-position="405">
+            <caret line="369" column="4" selection-start-line="369" selection-start-column="4" selection-end-line="369" selection-end-column="4" />
             <folding>
               <element signature="e#404#405#0" expanded="true" />
               <element signature="e#430#431#0" expanded="true" />
@@ -522,6 +517,16 @@
               <element signature="e#740#741#0" expanded="true" />
               <element signature="e#833#834#0" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="267">
+            <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
