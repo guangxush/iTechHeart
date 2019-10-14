@@ -1,6 +1,27 @@
-1. ssh新建ALT+O
+### 服务器使用
+#### ssh远程连接
 
-2.
+ssh -p 21122 shgx@xxx.xxx.xxx.xxx
+ssh shgx@xxx.xxx.xxx.xxx:21122 这个是211
+ssh shgx@xxx.xxx.xxx.xxx:22
+
+#### 远程桌面连接
+xrdp shgx@xxx.xxx.xxx.xxx:13389 (实际是211)
+ssh xxx.xxx.xxx.xxx -p 21122
+
+#### 远程传输文件
+FileZilla的sftp://xxx.xxx.xxx.xxx:21122   13389
+scp -P 21122 -r shgx@xxx.xxx.xxx.xxx:/data/shgx/models /Users/guangxush/Pycharm/models
+
+### 常用的命令
+
+1. Pycharm 环境配置
+```text
+PYTHONUNBUFFERED 1
+LD_LIBRARY_PATH /usr/local/cuda/lib64
+CUDA_VISIBLE_DEVICES 2(这个数字填写你使用的GPU编号)
+```
+2. 屏幕使用
 ```
   screen -S GX 新建屏幕
   screen -ls 显示所有的屏幕
@@ -37,7 +58,7 @@ unzip 解压文件
 ```
 pip install pandas --user
 ```
-  安装TensorFlow
+安装TensorFlow
 ```
 pip install tensorflow --user --upgrade(升级)
 pip list 查看所有安装
