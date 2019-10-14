@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,11 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image/CORS/cors6.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/image/CORS/cors8.png">
           <provider selected="true" editor-type-id="images" />
@@ -53,78 +48,20 @@
         <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象克隆.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="405">
-                <caret line="369" column="4" selection-start-line="369" selection-start-column="4" selection-end-line="369" selection-end-column="4" />
-                <folding>
-                  <element signature="e#404#405#0" expanded="true" />
-                  <element signature="e#430#431#0" expanded="true" />
-                  <element signature="e#464#465#0" expanded="true" />
-                  <element signature="e#494#495#0" expanded="true" />
-                  <element signature="e#524#525#0" expanded="true" />
-                  <element signature="e#551#552#0" expanded="true" />
-                  <element signature="e#590#591#0" expanded="true" />
-                  <element signature="e#622#623#0" expanded="true" />
-                  <element signature="e#656#657#0" expanded="true" />
-                  <element signature="e#686#687#0" expanded="true" />
-                  <element signature="e#732#733#0" expanded="true" />
-                  <element signature="e#770#771#0" expanded="true" />
-                  <element signature="e#234#235#0" expanded="true" />
-                  <element signature="e#265#266#0" expanded="true" />
-                  <element signature="e#312#313#0" expanded="true" />
-                  <element signature="e#352#353#0" expanded="true" />
-                  <element signature="e#384#385#0" expanded="true" />
-                  <element signature="e#413#414#0" expanded="true" />
-                  <element signature="e#456#457#0" expanded="true" />
-                  <element signature="e#492#493#0" expanded="true" />
-                  <element signature="e#537#538#0" expanded="true" />
-                  <element signature="e#620#621#0" expanded="true" />
-                  <element signature="e#369#370#0" expanded="true" />
-                  <element signature="e#400#401#0" expanded="true" />
-                  <element signature="e#447#448#0" expanded="true" />
-                  <element signature="e#487#488#0" expanded="true" />
-                  <element signature="e#519#520#0" expanded="true" />
-                  <element signature="e#548#549#0" expanded="true" />
-                  <element signature="e#591#592#0" expanded="true" />
-                  <element signature="e#627#628#0" expanded="true" />
-                  <element signature="e#672#673#0" expanded="true" />
-                  <element signature="e#755#756#0" expanded="true" />
-                  <element signature="e#543#544#0" expanded="true" />
-                  <element signature="e#569#570#0" expanded="true" />
-                  <element signature="e#603#604#0" expanded="true" />
-                  <element signature="e#633#634#0" expanded="true" />
-                  <element signature="e#663#664#0" expanded="true" />
-                  <element signature="e#690#691#0" expanded="true" />
-                  <element signature="e#729#730#0" expanded="true" />
-                  <element signature="e#761#762#0" expanded="true" />
-                  <element signature="e#795#796#0" expanded="true" />
-                  <element signature="e#825#826#0" expanded="true" />
-                  <element signature="e#871#872#0" expanded="true" />
-                  <element signature="e#909#910#0" expanded="true" />
-                  <element signature="e#310#311#0" expanded="true" />
-                  <element signature="e#341#342#0" expanded="true" />
-                  <element signature="e#388#389#0" expanded="true" />
-                  <element signature="e#428#429#0" expanded="true" />
-                  <element signature="e#460#461#0" expanded="true" />
-                  <element signature="e#489#490#0" expanded="true" />
-                  <element signature="e#532#533#0" expanded="true" />
-                  <element signature="e#568#569#0" expanded="true" />
-                  <element signature="e#613#614#0" expanded="true" />
-                  <element signature="e#696#697#0" expanded="true" />
-                  <element signature="e#344#345#0" expanded="true" />
-                  <element signature="e#370#371#0" expanded="true" />
-                  <element signature="e#404#405#0" expanded="true" />
-                  <element signature="e#434#435#0" expanded="true" />
-                  <element signature="e#464#465#0" expanded="true" />
-                  <element signature="e#491#492#0" expanded="true" />
-                  <element signature="e#530#531#0" expanded="true" />
-                  <element signature="e#562#563#0" expanded="true" />
-                  <element signature="e#596#597#0" expanded="true" />
-                  <element signature="e#626#627#0" expanded="true" />
-                  <element signature="e#672#673#0" expanded="true" />
-                  <element signature="e#710#711#0" expanded="true" />
-                  <element signature="e#740#741#0" expanded="true" />
-                  <element signature="e#833#834#0" expanded="true" />
-                </folding>
+              <first_editor relative-caret-position="7497">
+                <caret line="357" column="23" selection-start-line="357" selection-start-column="23" selection-end-line="357" selection-end-column="23" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="295">
+                <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,11 +69,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="267">
-                <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+              <first_editor relative-caret-position="526">
+                <caret line="39" column="192" selection-start-line="39" selection-start-column="192" selection-end-line="39" selection-end-column="192" />
               </first_editor>
               <second_editor />
             </state>
@@ -259,7 +196,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/image/CNN" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -295,18 +232,19 @@
       <workItem from="1567322839328" duration="14000" />
       <workItem from="1568038361899" duration="501000" />
       <workItem from="1569467999992" duration="1018000" />
-      <workItem from="1569985068570" duration="4160000" />
+      <workItem from="1569985068570" duration="4977000" />
+      <workItem from="1570074521681" duration="10000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12571000" />
+    <option name="totallyTimeSpent" value="13398000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1916972" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1941392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,7 +261,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26340327" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26340327" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -353,19 +291,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/image/Swallow/Swallow11.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="549">
-            <caret line="39" column="192" selection-start-line="39" selection-start-column="192" selection-end-line="39" selection-end-column="192" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/CORS/cors4.png">
       <provider selected="true" editor-type-id="images" />
@@ -397,6 +322,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2394">
             <caret line="114" selection-start-line="114" selection-end-line="114" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象克隆.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="7497">
+            <caret line="357" column="23" selection-start-line="357" selection-start-column="23" selection-end-line="357" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -442,91 +377,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象克隆.md">
+    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="369" column="4" selection-start-line="369" selection-start-column="4" selection-end-line="369" selection-end-column="4" />
-            <folding>
-              <element signature="e#404#405#0" expanded="true" />
-              <element signature="e#430#431#0" expanded="true" />
-              <element signature="e#464#465#0" expanded="true" />
-              <element signature="e#494#495#0" expanded="true" />
-              <element signature="e#524#525#0" expanded="true" />
-              <element signature="e#551#552#0" expanded="true" />
-              <element signature="e#590#591#0" expanded="true" />
-              <element signature="e#622#623#0" expanded="true" />
-              <element signature="e#656#657#0" expanded="true" />
-              <element signature="e#686#687#0" expanded="true" />
-              <element signature="e#732#733#0" expanded="true" />
-              <element signature="e#770#771#0" expanded="true" />
-              <element signature="e#234#235#0" expanded="true" />
-              <element signature="e#265#266#0" expanded="true" />
-              <element signature="e#312#313#0" expanded="true" />
-              <element signature="e#352#353#0" expanded="true" />
-              <element signature="e#384#385#0" expanded="true" />
-              <element signature="e#413#414#0" expanded="true" />
-              <element signature="e#456#457#0" expanded="true" />
-              <element signature="e#492#493#0" expanded="true" />
-              <element signature="e#537#538#0" expanded="true" />
-              <element signature="e#620#621#0" expanded="true" />
-              <element signature="e#369#370#0" expanded="true" />
-              <element signature="e#400#401#0" expanded="true" />
-              <element signature="e#447#448#0" expanded="true" />
-              <element signature="e#487#488#0" expanded="true" />
-              <element signature="e#519#520#0" expanded="true" />
-              <element signature="e#548#549#0" expanded="true" />
-              <element signature="e#591#592#0" expanded="true" />
-              <element signature="e#627#628#0" expanded="true" />
-              <element signature="e#672#673#0" expanded="true" />
-              <element signature="e#755#756#0" expanded="true" />
-              <element signature="e#543#544#0" expanded="true" />
-              <element signature="e#569#570#0" expanded="true" />
-              <element signature="e#603#604#0" expanded="true" />
-              <element signature="e#633#634#0" expanded="true" />
-              <element signature="e#663#664#0" expanded="true" />
-              <element signature="e#690#691#0" expanded="true" />
-              <element signature="e#729#730#0" expanded="true" />
-              <element signature="e#761#762#0" expanded="true" />
-              <element signature="e#795#796#0" expanded="true" />
-              <element signature="e#825#826#0" expanded="true" />
-              <element signature="e#871#872#0" expanded="true" />
-              <element signature="e#909#910#0" expanded="true" />
-              <element signature="e#310#311#0" expanded="true" />
-              <element signature="e#341#342#0" expanded="true" />
-              <element signature="e#388#389#0" expanded="true" />
-              <element signature="e#428#429#0" expanded="true" />
-              <element signature="e#460#461#0" expanded="true" />
-              <element signature="e#489#490#0" expanded="true" />
-              <element signature="e#532#533#0" expanded="true" />
-              <element signature="e#568#569#0" expanded="true" />
-              <element signature="e#613#614#0" expanded="true" />
-              <element signature="e#696#697#0" expanded="true" />
-              <element signature="e#344#345#0" expanded="true" />
-              <element signature="e#370#371#0" expanded="true" />
-              <element signature="e#404#405#0" expanded="true" />
-              <element signature="e#434#435#0" expanded="true" />
-              <element signature="e#464#465#0" expanded="true" />
-              <element signature="e#491#492#0" expanded="true" />
-              <element signature="e#530#531#0" expanded="true" />
-              <element signature="e#562#563#0" expanded="true" />
-              <element signature="e#596#597#0" expanded="true" />
-              <element signature="e#626#627#0" expanded="true" />
-              <element signature="e#672#673#0" expanded="true" />
-              <element signature="e#710#711#0" expanded="true" />
-              <element signature="e#740#741#0" expanded="true" />
-              <element signature="e#833#834#0" expanded="true" />
-            </folding>
+          <first_editor relative-caret-position="295">
+            <caret line="53" column="44" selection-start-line="53" selection-start-column="44" selection-end-line="53" selection-end-column="44" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/Java基础/Java对象如何使用compareTo.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="267">
-            <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+          <first_editor relative-caret-position="526">
+            <caret line="39" column="192" selection-start-line="39" selection-start-column="192" selection-end-line="39" selection-end-column="192" />
           </first_editor>
           <second_editor />
         </state>
