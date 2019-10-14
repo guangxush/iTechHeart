@@ -50,7 +50,6 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 在NLP任务中，经常会使用到1维卷积，我们这里对一个二维数据集做1维卷积
 代码如下：
 ```python
-# 编码层
     encoded_1 = Conv1D(filters=16, kernel_size=2, padding='same', activation='relu', strides=1,
                        name='encoder_1')(data_input)
     encoded_2 = MaxPooling1D(pool_size=2, name='encoder_2')(encoded_1)
@@ -76,4 +75,5 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 ## 完整源码
 
 [二维卷积代码](https://github.com/guangxush/AutoEncoders/blob/master/test.py)
+
 [一维卷积代码](https://github.com/guangxush/AutoEncoders/blob/master/base_cnn.py)
