@@ -27,7 +27,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
     model.add(Dense(num_classes, activation='softmax'))
     model.summary()
 ```
-输入的shape是：28*28*1（黑白图片，通道为1，长宽都为28）
+输入的shape是：28\*28\*1（黑白图片，通道为1，长宽都为28）
 
 这里```Conv2D(32, kernel_size=(3, 3),
                      activation='relu',
@@ -38,7 +38,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 
 第二层```Conv2D(64, (3, 3), activation='relu')```，64个卷积核，大小是3\*3\*64，根据上面的计算方法得到输出为24\*24\*64，参数为：（3\*3\*32+1）\*64=18496
 
-第三层```MaxPooling2D(pool_size=(2, 2))```, 池化层，卷积核大小是2*2*1，对24\*24\*64的进行池化，得到12\*12\*64（原来的2*2图像变成了1\*1），这里默认步长是2，（官方解释：If None, it will default to `pool_size`.）
+第三层```MaxPooling2D(pool_size=(2, 2))```, 池化层，卷积核大小是2\*2\*1，对24\*24\*64的进行池化，得到12\*12\*64（原来的2*2图像变成了1\*1），这里默认步长是2，（官方解释：If None, it will default to `pool_size`.）
 
 后面的```Flatten()```,是把12\*12\*64变成1维的=9216，剩下的全连接层不再赘述。
 
@@ -67,9 +67,9 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 
 第一层卷积：``` Conv1D(filters=16, kernel_size=2, padding='same', activation='relu', strides=1,
                        name='encoder_1')```
-卷积核大小是2*1，默认写成2，卷积核数量是16，步长为1，增加了padding，所以第一层得到4*16的大小。
+卷积核大小是2\*1，默认写成2，卷积核数量是16，步长为1，增加了padding，所以第一层得到4\*16的大小。
 
-第二层池化层，```MaxPooling1D(pool_size=2, name='encoder_2')```,得到2*16的，因为步长为2。
+第二层池化层，```MaxPooling1D(pool_size=2, name='encoder_2')```,得到2\*16的，因为步长为2。
 剩下的参数可以自行计算。
 
 ## 完整源码
