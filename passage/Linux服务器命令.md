@@ -164,3 +164,11 @@ du -h --max-depth=1
 ```
 echo $PATH
 ```
+23. 安装python3.6环境变量配置
+```text
+在/home/shgx目录下ls -a 查看.bashrc
+然后vim .bashrc
+添加自己的路径
+export PATH="/home/shgx/Python3.6/bin/:$PATH"
+查看路径which  python3
+```
