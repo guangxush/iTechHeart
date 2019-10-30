@@ -170,5 +170,6 @@ echo $PATH
 然后vim .bashrc
 添加自己的路径
 export PATH="/home/shgx/Python3.6/bin/:$PATH"
+保存之后source .bashrc
 查看路径which  python3
 ```
