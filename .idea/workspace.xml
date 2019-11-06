@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/paper/论文好句子.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/paper/论文摘要整理.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passage/paper/论文好句子.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/paper/论文好句子.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passage/paper/论文摘要整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/paper/论文摘要整理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <first_editor relative-caret-position="529">
+                <caret line="35" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/passage/paper/论文摘要整理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="76" column="265" selection-start-line="76" selection-start-column="254" selection-end-line="76" selection-end-column="265" />
+              <first_editor relative-caret-position="540">
+                <caret line="276" selection-start-line="276" selection-end-line="276" />
               </first_editor>
               <second_editor />
             </state>
@@ -171,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,7 +205,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -260,17 +259,18 @@
       <workItem from="1572399137585" duration="887000" />
       <workItem from="1572916751635" duration="4534000" />
       <workItem from="1572949567062" duration="3487000" />
+      <workItem from="1572969371710" duration="11340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27036000" />
+    <option name="totallyTimeSpent" value="38376000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14163615" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -358,6 +358,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="924">
@@ -366,25 +369,12 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/passage/Linux服务器命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3612">
             <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -437,11 +427,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <first_editor relative-caret-position="529">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -450,8 +450,8 @@
     <entry file="file://$PROJECT_DIR$/passage/paper/论文摘要整理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="76" column="265" selection-start-line="76" selection-start-column="254" selection-end-line="76" selection-end-column="265" />
+          <first_editor relative-caret-position="540">
+            <caret line="276" selection-start-line="276" selection-end-line="276" />
           </first_editor>
           <second_editor />
         </state>
