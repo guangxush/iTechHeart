@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/passage/paper/论文好句子.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/paper/论文好句子.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passage/paper/论文摘要整理.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/paper/论文摘要整理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +43,8 @@
         <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="845">
-                <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+              <first_editor relative-caret-position="515">
+                <caret line="92" selection-start-line="92" selection-end-line="92" />
               </first_editor>
               <second_editor />
             </state>
@@ -56,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/passage/paper/论文摘要整理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-483">
-                <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+              <first_editor relative-caret-position="505">
+                <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
               </first_editor>
               <second_editor />
             </state>
@@ -141,6 +140,7 @@
       <find>-</find>
       <find>CNNs</find>
       <find>text class</find>
+      <find>70%</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -268,12 +268,12 @@
       <workItem from="1572399137585" duration="887000" />
       <workItem from="1572916751635" duration="4534000" />
       <workItem from="1572949567062" duration="3487000" />
-      <workItem from="1572969371710" duration="32143000" />
+      <workItem from="1572969371710" duration="38625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59179000" />
+    <option name="totallyTimeSpent" value="65661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="953" extended-state="6" />
@@ -449,8 +449,8 @@
     <entry file="file://$PROJECT_DIR$/passage/paper/论文摘要整理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-483">
-            <caret line="26" column="72" lean-forward="true" selection-start-line="26" selection-start-column="72" selection-end-line="26" selection-end-column="72" />
+          <first_editor relative-caret-position="505">
+            <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
           </first_editor>
           <second_editor />
         </state>
@@ -459,8 +459,8 @@
     <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="845">
-            <caret line="105" column="33" lean-forward="true" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+          <first_editor relative-caret-position="515">
+            <caret line="92" selection-start-line="92" selection-end-line="92" />
           </first_editor>
           <second_editor />
         </state>
