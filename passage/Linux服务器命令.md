@@ -114,11 +114,20 @@ mv A B
 ```
 13. 安装Python3
 ```
-https://www.cnblogs.com/Guido-admirers/p/6259410.html
-下载Python3源码，解析
-配置的时候注意
-./configure 的时候记得  ./configure --prefix=/home/shgx/   就行了
-ln -s python的安装路径 目录下/python3命名
+下载Python3源码 wget https://www.python.org/ftp/python/3.6.0/Python-3.6.0.tgz
+
+解压 tar -xvf Python-3.6.0.tgz
+
+创建安装路径 mkdir /home/shgx/python3
+
+编译 ./configure --prefix=/home/shgx/python3
+
+安装 先 make 然后 make install
+
+建立软连接 ln -s /home/shgx/python3/bin/python3 /usr/bin/python3
+
+检查python版本 python -V 显示python-3.6.0
+
 ```
 14. 文件夹移动剪切
 ```
