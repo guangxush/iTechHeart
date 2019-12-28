@@ -44,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="429">
-                <caret line="95" column="165" selection-start-line="95" selection-start-column="165" selection-end-line="95" selection-end-column="165" />
+              <first_editor relative-caret-position="65">
+                <caret line="99" column="65" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,6 +144,7 @@
       <find>70%</find>
       <find>Traditional machine learning requires a lot of costs to construct artificial features.</find>
       <find>-</find>
+      <find>Adam</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,9 +170,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="950" />
+    <option name="x" value="210" />
+    <option name="y" value="141" />
+    <option name="width" value="1260" />
+    <option name="height" value="714" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -181,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -217,6 +218,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,18 +273,20 @@
       <workItem from="1572916751635" duration="4534000" />
       <workItem from="1572949567062" duration="3487000" />
       <workItem from="1572969371710" duration="43425000" />
-      <workItem from="1573391925649" duration="1447000" />
+      <workItem from="1573391925649" duration="5798000" />
+      <workItem from="1574075102287" duration="862000" />
+      <workItem from="1574831223329" duration="47000" />
+      <workItem from="1574836825935" duration="538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71908000" />
+    <option name="totallyTimeSpent" value="77706000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="950" extended-state="0" />
-    <editor active="true" />
+    <frame x="210" y="141" width="1260" height="714" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14468865" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15106732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -299,7 +303,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26223776" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26205787" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -462,8 +466,8 @@
     <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="429">
-            <caret line="95" column="165" selection-start-line="95" selection-start-column="165" selection-end-line="95" selection-end-column="165" />
+          <first_editor relative-caret-position="65">
+            <caret line="99" column="65" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
           </first_editor>
           <second_editor />
         </state>
