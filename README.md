@@ -20,6 +20,7 @@
 - [策略模式](https://github.com/guangxush/DesignPatterns/tree/master/src/strategy)
 - [装饰器模式](https://github.com/guangxush/DesignPatterns/tree/master/src/decorator)
 - [观察者模式](https://github.com/guangxush/DesignPatterns/tree/master/src/observer)
+- [谈一谈重构](https://github.com/guangxush/DesignPatterns/tree/master/src/refactor)
 
 ## 算法
 
