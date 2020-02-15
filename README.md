@@ -12,6 +12,7 @@
 - [二阶段提交解决分布式事务一致性](https://github.com/guangxush/GoddoG)
 - [微服务动态属性配置](https://github.com/guangxush/Swallow)
 - [Spring Session + Redis实现Session共享](https://github.com/guangxush/SpringBoot_Redis)
+- [Spring Boot + Dubbo实现RPC服务调用](https://github.com/guangxush/SpringBoot_Dubbo)
 
 ## 设计模式
 
@@ -19,6 +20,7 @@
 - [策略模式](https://github.com/guangxush/DesignPatterns/tree/master/src/strategy)
 - [装饰器模式](https://github.com/guangxush/DesignPatterns/tree/master/src/decorator)
 - [观察者模式](https://github.com/guangxush/DesignPatterns/tree/master/src/observer)
+- [谈一谈重构](https://github.com/guangxush/DesignPatterns/tree/master/src/refactor)
 
 ## 算法
 
