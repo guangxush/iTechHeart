@@ -3,7 +3,7 @@
 
 ### Hardware
 
-Most of Google’s compute resources are in Google-designed datacenters with propri‐ etary power distribution, cooling, networking, and compute hardware. Unlike “standard” colocation datacenters, the compute hardware in a Google-designed datacenter is the same across the board.
+Most of Google’s compute resources are in Google-designed datacenters with proprietary power distribution, cooling, networking, and compute hardware. Unlike “standard” colocation datacenters, the compute hardware in a Google-designed datacenter is the same across the board.
 
 
 ![](../../image/SRE/googledatacenter.png)
@@ -91,13 +91,13 @@ We can divide this system into two parts:
 
 first, the user points their browser to shakespeare.google.com. To obtain the corresponding IP address, the user’s device resolves the address with its DNS server (1). This request ultimately ends up at Goo‐ gle’s DNS server, which talks to GSLB. As GSLB keeps track of traffic load among frontend servers across regions, it picks which server IP address to send to this user.
 
-The browser connects to the HTTP server on this IP. This server (named the Google Frontend, or GFE) is a reverse proxy that terminates the TCP connection (2). The GFE looks up which service is required (web search, maps, or—in this case—Shake‐ speare). Again using GSLB, the server finds an available Shakespeare frontend server, and sends that server an RPC containing the HTML request (3).
+The browser connects to the HTTP server on this IP. This server (named the Google Frontend, or GFE) is a reverse proxy that terminates the TCP connection (2). The GFE looks up which service is required (web search, maps, or—in this case—Shakespeare). Again using GSLB, the server finds an available Shakespeare frontend server, and sends that server an RPC containing the HTML request (3).
 
-The Shakespeare server analyzes the HTML request and constructs a protobuf con‐ taining the word to look up. The Shakespeare frontend server now needs to contact the Shakespeare backend server: the frontend server contacts GSLB to obtain the BNS address of a suitable and unloaded backend server (4). That Shakespeare backend server now contacts a Bigtable server to obtain the requested data (5).
+The Shakespeare server analyzes the HTML request and constructs a protobuf containing the word to look up. The Shakespeare frontend server now needs to contact the Shakespeare backend server: the frontend server contacts GSLB to obtain the BNS address of a suitable and unloaded backend server (4). That Shakespeare backend server now contacts a Bigtable server to obtain the requested data (5).
 
 The answer is written to the reply protobuf and returned to the Shakespeare backend server. The backend hands a protobuf containing the results to the Shakespeare frontend server, which assembles the HTML and returns the answer to the user.
 
-This entire chain of events is executed in the blink of an eye—just a few hundred mil‐ liseconds! Because many moving parts are involved, there are many potential points of failure; in particular, a failing GSLB would wreak havoc. However, Google’s policies of rigorous testing and careful rollout, in addition to our proactive error recovery methods such as graceful degradation, allow us to deliver the reliable service that our users have come to expect. After all, people regularly use www.google.com to check if their Internet connection is set up correctly.
+This entire chain of events is executed in the blink of an eye—just a few hundred milliseconds! Because many moving parts are involved, there are many potential points of failure; in particular, a failing GSLB would wreak havoc. However, Google’s policies of rigorous testing and careful rollout, in addition to our proactive error recovery methods such as graceful degradation, allow us to deliver the reliable service that our users have come to expect. After all, people regularly use www.google.com to check if their Internet connection is set up correctly.
 
 
 ### Job and Data Organization
@@ -105,4 +105,4 @@ This entire chain of events is executed in the blink of an eye—just a few hund
 Load testing determined that our backend server can handle about 100 queries per second (QPS).
 
 - During updates, one task at a time will be unavailable, leaving 36 tasks.
-- A machine failure might occur during a task update, leaving only 35 tasks, just enough to serve peak load.5
+- A machine failure might occur during a task update, leaving only 35 tasks, just enough to serve peak load.
