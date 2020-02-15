@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Introduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/The Production Environment ad Google" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passage/paper/论文好句子.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/paper/论文好句子.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +18,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="924">
-                <caret line="44" column="110" selection-start-line="44" selection-start-column="110" selection-end-line="44" selection-end-column="110" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="2478">
+                <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
               </first_editor>
               <second_editor />
             </state>
@@ -29,11 +30,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/Linux服务器命令.md">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Introduction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3612">
-                <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+              <first_editor relative-caret-position="147">
+                <caret line="7" selection-start-line="7" selection-end-line="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -41,11 +42,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="65">
-                <caret line="99" column="65" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
+              <first_editor relative-caret-position="621">
+                <caret line="105" column="109" selection-start-line="105" selection-start-column="109" selection-end-line="105" selection-end-column="109" />
               </first_editor>
               <second_editor />
             </state>
@@ -166,14 +167,17 @@
         <option value="$PROJECT_DIR$/passage/Linux服务器命令.md" />
         <option value="$PROJECT_DIR$/passage/paper/论文摘要整理.md" />
         <option value="$PROJECT_DIR$/passage/paper/论文好句子.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/The Production Environment ad Google.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Introduction.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/The Production Environment ad Google" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="210" />
-    <option name="y" value="141" />
-    <option name="width" value="1260" />
-    <option name="height" value="714" />
+    <option name="x" value="665" />
+    <option name="y" value="23" />
+    <option name="width" value="1014" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -183,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,6 +195,17 @@
             <path>
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
               <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="SRE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
@@ -214,27 +230,33 @@
               <item name="passage" type="462c0819:PsiDirectoryNode" />
               <item name="paper" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="passage" type="462c0819:PsiDirectoryNode" />
+              <item name="SRE" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/passage/SRE" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/image/CNN" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/image/Passage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/passage/SRE" />
+      <recent name="$PROJECT_DIR$/image/CNN" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -277,16 +299,22 @@
       <workItem from="1574075102287" duration="862000" />
       <workItem from="1574831223329" duration="47000" />
       <workItem from="1574836825935" duration="538000" />
+      <workItem from="1577515503423" duration="105000" />
+      <workItem from="1581727211792" duration="1098000" />
+      <workItem from="1581735314077" duration="134000" />
+      <workItem from="1581735464517" duration="121000" />
+      <workItem from="1581737889343" duration="1011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77706000" />
+    <option name="totallyTimeSpent" value="80175000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="210" y="141" width="1260" height="714" extended-state="0" />
+    <frame x="665" y="23" width="1014" height="950" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15106732" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17901234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -303,7 +331,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.26205787" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16899768" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -374,6 +402,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="924">
@@ -382,15 +413,23 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/passage/Linux服务器命令.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3612">
             <caret line="172" column="18" selection-start-line="172" selection-start-column="18" selection-end-line="172" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google.md" />
+    <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="2478">
+            <caret line="118" column="52" selection-start-line="118" selection-start-column="52" selection-end-line="118" selection-end-column="52" />
           </first_editor>
           <second_editor />
         </state>
@@ -463,11 +502,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/paper/论文好句子.md">
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Introduction.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="65">
-            <caret line="99" column="65" selection-start-line="99" selection-start-column="65" selection-end-line="99" selection-end-column="65" />
+          <first_editor relative-caret-position="621">
+            <caret line="105" column="109" selection-start-line="105" selection-start-column="109" selection-end-line="105" selection-end-column="109" />
           </first_editor>
           <second_editor />
         </state>
