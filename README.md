@@ -21,6 +21,7 @@
 - [装饰器模式](https://github.com/guangxush/DesignPatterns/tree/master/src/decorator)
 - [观察者模式](https://github.com/guangxush/DesignPatterns/tree/master/src/observer)
 - [谈一谈重构](https://github.com/guangxush/DesignPatterns/tree/master/src/refactor)
+- [大型网站技术架构](https://github.com/guangxush/DesignPatterns/blob/master/src/architecture)
 
 ## 算法
 
@@ -40,6 +41,7 @@
 
 - [IDEA中SpringBoot项目Maven配置问题](https://github.com/guangxush/iTechHeart/blob/master/passage/IDEA中SpringBoot项目Maven配置问题.md)
 - [无Root权限的Python+TensorFlow环境安装](https://github.com/guangxush/iTechHeart/blob/master/passage/%E6%97%A0Root%E6%9D%83%E9%99%90%E7%9A%84Python%2BTensorFlow%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85.md)
+- [使用pyquery爬取新闻](https://github.com/guangxush/CS415_Python/tree/master/week3)
 
 
 ## 深度学习
