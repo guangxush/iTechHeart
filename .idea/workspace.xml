@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Embracing Risk.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Service Level Objects.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Eliminating Toil.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,36 +41,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/SRE/Service Level Objects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
+              <first_editor relative-caret-position="112">
+                <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Eliminating Toil.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="425">
+                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
               <first_editor relative-caret-position="766">
-                <caret line="101" column="480" selection-start-line="101" selection-start-column="480" selection-end-line="101" selection-end-column="480" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/paper/论文摘要整理.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="5691">
-                <caret line="271" column="5" selection-start-line="271" selection-start-column="5" selection-end-line="271" selection-end-column="5" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/IDEA中SpringBoot项目Maven配置问题.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+                <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,13 +172,15 @@
         <option value="$PROJECT_DIR$/passage/SRE/The Production Environment ad Google" />
         <option value="$PROJECT_DIR$/passage/SRE/Embracing Risk.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Service Level Objects.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Eliminating Toil.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="803" />
-    <option name="y" value="23" />
-    <option name="width" value="935" />
+    <option name="x" value="764" />
+    <option name="y" value="72" />
+    <option name="width" value="1001" />
     <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -282,17 +284,18 @@
       <workItem from="1581735314077" duration="134000" />
       <workItem from="1581735464517" duration="121000" />
       <workItem from="1581737889343" duration="2498000" />
-      <workItem from="1581773692043" duration="6788000" />
+      <workItem from="1581773692043" duration="10863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88450000" />
+    <option name="totallyTimeSpent" value="92525000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="803" y="23" width="935" height="950" extended-state="0" />
+    <frame x="764" y="72" width="1001" height="950" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20156775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10948905" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -309,8 +312,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3951049" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.3951049" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50052136" side_tool="true" weight="0.3951049" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -512,8 +515,28 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Service Level Objects.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Eliminating Toil.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="766">
-            <caret line="101" column="480" selection-start-line="101" selection-start-column="480" selection-end-line="101" selection-end-column="480" />
+            <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
