@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Eliminating Toil.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Release Engineering.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,7 +34,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="-11">
-                <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+                <caret line="96" selection-start-line="96" selection-end-line="96" />
               </first_editor>
               <second_editor />
             </state>
@@ -46,7 +46,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="112">
-                <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+                <caret line="96" selection-start-line="96" selection-end-line="96" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,7 +58,31 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="425">
-                <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+                <caret line="35" selection-start-line="35" selection-end-line="35" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="217">
+                <caret line="102" selection-start-line="102" selection-end-line="102" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="261">
+                <caret line="101" column="14" lean-forward="true" selection-start-line="101" selection-end-line="102" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,32 +90,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="766">
-                <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/keras/什么是CNN.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="903">
-                <caret line="43" column="84" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="84" />
+              <first_editor relative-caret-position="514">
+                <caret line="71" column="415" selection-start-line="71" selection-start-column="415" selection-end-line="71" selection-end-column="415" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,8 +147,8 @@
       <find>text class</find>
       <find>70%</find>
       <find>Traditional machine learning requires a lot of costs to construct artificial features.</find>
-      <find>-</find>
       <find>Adam</find>
+      <find>‐</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -174,12 +177,14 @@
         <option value="$PROJECT_DIR$/passage/SRE/Service Level Objects.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Eliminating Toil.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Release Engineering.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="764" />
-    <option name="y" value="72" />
+    <option name="x" value="757" />
+    <option name="y" value="66" />
     <option name="width" value="1001" />
     <option name="height" value="950" />
   </component>
@@ -204,6 +209,12 @@
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
               <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
               <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="SRE" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
@@ -284,18 +295,18 @@
       <workItem from="1581735314077" duration="134000" />
       <workItem from="1581735464517" duration="121000" />
       <workItem from="1581737889343" duration="2498000" />
-      <workItem from="1581773692043" duration="10863000" />
+      <workItem from="1581773692043" duration="16606000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92525000" />
+    <option name="totallyTimeSpent" value="98268000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="764" y="72" width="1001" height="950" extended-state="0" />
+    <frame x="757" y="66" width="1001" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10948905" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18456726" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -506,7 +517,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-11">
-            <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+            <caret line="96" selection-start-line="96" selection-end-line="96" />
           </first_editor>
           <second_editor />
         </state>
@@ -516,7 +527,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="112">
-            <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+            <caret line="96" selection-start-line="96" selection-end-line="96" />
           </first_editor>
           <second_editor />
         </state>
@@ -526,7 +537,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="425">
-            <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
           </first_editor>
           <second_editor />
         </state>
@@ -535,8 +546,28 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="766">
-            <caret line="101" column="4" selection-start-line="101" selection-start-column="4" selection-end-line="101" selection-end-column="4" />
+          <first_editor relative-caret-position="217">
+            <caret line="102" selection-start-line="102" selection-end-line="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="261">
+            <caret line="101" column="14" lean-forward="true" selection-start-line="101" selection-end-line="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="514">
+            <caret line="71" column="415" selection-start-line="71" selection-start-column="415" selection-end-line="71" selection-end-column="415" />
           </first_editor>
           <second_editor />
         </state>
