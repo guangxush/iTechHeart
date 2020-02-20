@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Release Engineering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Being On-Call.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Practical Alerting from Time-Series Data.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Simplicity.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,34 +19,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="145">
-                <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Embracing Risk.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-11">
-                <caret line="96" selection-start-line="96" selection-end-line="96" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/SRE/Service Level Objects.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="112">
+              <first_editor relative-caret-position="2016">
                 <caret line="96" selection-start-line="96" selection-end-line="96" />
               </first_editor>
               <second_editor />
@@ -57,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/Eliminating Toil.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="425">
+              <first_editor relative-caret-position="735">
                 <caret line="35" selection-start-line="35" selection-end-line="35" />
               </first_editor>
               <second_editor />
@@ -69,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
+              <first_editor relative-caret-position="2142">
                 <caret line="102" selection-start-line="102" selection-end-line="102" />
               </first_editor>
               <second_editor />
@@ -81,20 +58,8 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="261">
-                <caret line="101" column="14" lean-forward="true" selection-start-line="101" selection-end-line="102" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="514">
-                <caret line="71" column="415" selection-start-line="71" selection-start-column="415" selection-end-line="71" selection-end-column="415" />
+              <first_editor relative-caret-position="2121">
+                <caret line="101" column="14" selection-start-line="101" selection-end-line="102" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,11 +67,47 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/二叉树的遍历.md">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2940">
-                <caret line="140" column="3" selection-start-line="140" selection-start-column="3" selection-end-line="140" selection-end-column="3" />
+              <first_editor relative-caret-position="1932">
+                <caret line="92" selection-start-line="92" selection-end-line="92" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Simplicity.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="262">
+                <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Practical Alerting from Time-Series Data.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="697">
+                <caret line="143" selection-start-line="143" selection-end-line="143" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Being On-Call.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="654">
+                <caret line="85" selection-start-line="85" selection-end-line="85" />
               </first_editor>
               <second_editor />
             </state>
@@ -179,12 +180,15 @@
         <option value="$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md" />
         <option value="$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Release Engineering.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Simplicity.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Practical Alerting from Time-Series Data.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Being On-Call.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="757" />
-    <option name="y" value="66" />
+    <option name="x" value="878" />
+    <option name="y" value="25" />
     <option name="width" value="1001" />
     <option name="height" value="950" />
   </component>
@@ -196,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -231,6 +233,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,15 +299,17 @@
       <workItem from="1581735314077" duration="134000" />
       <workItem from="1581735464517" duration="121000" />
       <workItem from="1581737889343" duration="2498000" />
-      <workItem from="1581773692043" duration="16606000" />
+      <workItem from="1581773692043" duration="18541000" />
+      <workItem from="1582156736716" duration="163000" />
+      <workItem from="1582168551860" duration="3251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98268000" />
+    <option name="totallyTimeSpent" value="103617000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="757" y="66" width="1001" height="950" extended-state="0" />
+    <frame x="878" y="25" width="1001" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.18456726" />
@@ -323,7 +329,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.3951049" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.3962704" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50052136" side_tool="true" weight="0.3951049" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -394,6 +400,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="924">
@@ -401,9 +410,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/passage/Linux服务器命令.md">
@@ -483,6 +489,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1239">
+            <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Embracing Risk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2016">
+            <caret line="96" selection-start-line="96" selection-end-line="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Service Level Objects.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2016">
+            <caret line="96" selection-start-line="96" selection-end-line="96" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Eliminating Toil.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="735">
+            <caret line="35" selection-start-line="35" selection-end-line="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2142">
+            <caret line="102" selection-start-line="102" selection-end-line="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2121">
+            <caret line="101" column="14" selection-start-line="101" selection-end-line="102" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1932">
+            <caret line="92" selection-start-line="92" selection-end-line="92" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/passage/无Root权限的Python+TensorFlow环境安装.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -503,71 +579,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment ad Google.md">
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Simplicity.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="145">
-            <caret line="59" column="85" selection-start-line="59" selection-start-column="85" selection-end-line="59" selection-end-column="85" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="262">
+            <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Embracing Risk.md">
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Practical Alerting from Time-Series Data.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-11">
-            <caret line="96" selection-start-line="96" selection-end-line="96" />
+          <first_editor relative-caret-position="697">
+            <caret line="143" selection-start-line="143" selection-end-line="143" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Service Level Objects.md">
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Being On-Call.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="112">
-            <caret line="96" selection-start-line="96" selection-end-line="96" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Eliminating Toil.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="425">
-            <caret line="35" selection-start-line="35" selection-end-line="35" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Monitoring Distributed Systems.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="217">
-            <caret line="102" selection-start-line="102" selection-end-line="102" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/The Evolution of Automation at Google.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="261">
-            <caret line="101" column="14" lean-forward="true" selection-start-line="101" selection-end-line="102" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Release Engineering.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="514">
-            <caret line="71" column="415" selection-start-line="71" selection-start-column="415" selection-end-line="71" selection-end-column="415" />
+          <first_editor relative-caret-position="654">
+            <caret line="85" selection-start-line="85" selection-end-line="85" />
           </first_editor>
           <second_editor />
         </state>
