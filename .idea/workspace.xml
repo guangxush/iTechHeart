@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Managing Incidents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Postmortem Culture: Learning from Failure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Software Engineering in SRE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Testing for Reliability.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Tracking Outages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Load Balancing at the Frontend.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,12 +88,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/SRE/Software Engineering in SRE.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="391">
-                <caret line="154" column="2" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="2" />
+              <first_editor relative-caret-position="322">
+                <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Load Balancing at the Frontend.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="406">
+                <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,18 +118,6 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="342">
                 <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/无Root权限的Python+TensorFlow环境安装.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="462">
-                <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -192,12 +188,13 @@
         <option value="$PROJECT_DIR$/passage/SRE/Tracking Outages.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Testing for Reliability.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Software Engineering in SRE.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Load Balancing at the Frontend.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="708" />
-    <option name="y" value="78" />
+    <option name="x" value="742" />
+    <option name="y" value="156" />
     <option name="width" value="1001" />
     <option name="height" value="950" />
   </component>
@@ -225,24 +222,6 @@
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
               <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
               <item name="passage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
-              <item name="passage" type="462c0819:PsiDirectoryNode" />
-              <item name="Java基础" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
-              <item name="passage" type="462c0819:PsiDirectoryNode" />
-              <item name="keras" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
-              <item name="passage" type="462c0819:PsiDirectoryNode" />
-              <item name="paper" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
@@ -322,15 +301,15 @@
       <workItem from="1581737889343" duration="2498000" />
       <workItem from="1581773692043" duration="18541000" />
       <workItem from="1582156736716" duration="163000" />
-      <workItem from="1582168551860" duration="15923000" />
+      <workItem from="1582168551860" duration="17224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116289000" />
+    <option name="totallyTimeSpent" value="117590000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="708" y="78" width="1001" height="950" extended-state="0" />
+    <frame x="742" y="156" width="1001" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2565172" />
@@ -693,8 +672,18 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Software Engineering in SRE.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="391">
-            <caret line="154" column="2" selection-start-line="154" selection-start-column="2" selection-end-line="154" selection-end-column="2" />
+          <first_editor relative-caret-position="322">
+            <caret line="162" lean-forward="true" selection-start-line="162" selection-end-line="162" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Load Balancing at the Frontend.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="406">
+            <caret line="33" column="17" lean-forward="true" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
