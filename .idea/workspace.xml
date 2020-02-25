@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Handling Overload.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Addressing Cascading Failures.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/SRE/Managing Critical State: Distributed Consensus for Reliability.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passage/SRE/Load Balancing in the Datacenter.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/SRE/Load Balancing in the Datacenter.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,30 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Effective Troubleshooting.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2583">
-                <caret line="123" selection-start-line="123" selection-end-line="123" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Emergency Response.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3171">
-                <caret line="151" selection-start-line="151" selection-end-line="151" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/SRE/Managing Incidents.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -106,7 +82,31 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="242">
-                <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+                <caret line="90" selection-start-line="90" selection-end-line="90" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Handling Overload.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="231">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Addressing Cascading Failures.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="416">
+                <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,11 +114,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/passage/SRE/Handling Overload.md">
+        <entry file="file://$PROJECT_DIR$/passage/SRE/Managing Critical State: Distributed Consensus for Reliability.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="427">
-                <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <first_editor relative-caret-position="119">
+                <caret line="248" selection-start-line="248" selection-end-line="248" />
               </first_editor>
               <second_editor />
             </state>
@@ -192,14 +192,16 @@
         <option value="$PROJECT_DIR$/passage/SRE/Load Balancing at the Frontend.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Load Balancing in the Datacenter.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Handling Overload.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Addressing Cascading Failures.md" />
+        <option value="$PROJECT_DIR$/passage/SRE/Managing Critical State: Distributed Consensus for Reliability.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="670" />
-    <option name="y" value="336" />
-    <option name="width" value="1001" />
-    <option name="height" value="950" />
+    <option name="x" value="696" />
+    <option name="y" value="251" />
+    <option name="width" value="1015" />
+    <option name="height" value="726" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -305,18 +307,18 @@
       <workItem from="1581773692043" duration="18541000" />
       <workItem from="1582156736716" duration="163000" />
       <workItem from="1582168551860" duration="18791000" />
-      <workItem from="1582516014011" duration="1241000" />
+      <workItem from="1582516014011" duration="12360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120398000" />
+    <option name="totallyTimeSpent" value="131517000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="671" y="337" width="1001" height="950" extended-state="0" />
+    <frame x="696" y="251" width="1015" height="726" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2565172" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25179857" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -333,7 +335,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" visible="true" weight="0.3951049" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.3951049" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50052136" side_tool="true" weight="0.3951049" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -697,7 +699,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="242">
-            <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
+            <caret line="90" selection-start-line="90" selection-end-line="90" />
           </first_editor>
           <second_editor />
         </state>
@@ -706,8 +708,28 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Handling Overload.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="427">
-            <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <first_editor relative-caret-position="231">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Addressing Cascading Failures.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="416">
+            <caret line="270" column="19" selection-start-line="270" selection-start-column="19" selection-end-line="270" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Managing Critical State: Distributed Consensus for Reliability.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="119">
+            <caret line="248" selection-start-line="248" selection-end-line="248" />
           </first_editor>
           <second_editor />
         </state>
