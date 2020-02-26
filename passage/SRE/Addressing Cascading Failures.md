@@ -269,6 +269,7 @@ For example, if index updates, data copies, or statistics gathering con‐ sume 
 If some queries are creating heavy load or crashes (e.g., queries of death), consider blocking them or eliminating them via other means.
 
 ### Closing Remarks
+
 Without proper care, some system changes meant to reduce background errors or otherwise improve the steady state can expose the service to greater risk of a full out‐ age. Retrying on failures, shifting load around from unhealthy servers, killing unheal‐ thy servers, adding caches to improve performance or reduce latency: all of these might be implemented to improve the normal case, but can improve the chance of causing a large-scale failure. Be careful when evaluating changes to ensure that one outage is not being traded for another.
 
 
