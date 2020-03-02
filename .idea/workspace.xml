@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Communication and Collaboration in SRE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Conclusion.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Embedding an SRE to Recover from Operational Overload.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/Lessons Learned from Other Industries.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/passage/SRE/The Evolving SRE Engagement Model.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/other/金字塔原理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/Dealing with Interrupts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="154">
+              <first_editor relative-caret-position="1239">
                 <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
               </first_editor>
               <second_editor />
@@ -72,7 +68,7 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/Lessons Learned from Other Industries.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="258">
+              <first_editor relative-caret-position="1890">
                 <caret line="90" selection-start-line="90" selection-end-line="90" />
               </first_editor>
               <second_editor />
@@ -80,12 +76,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/SRE/Conclusion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="203">
-                <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
+              <first_editor relative-caret-position="37">
+                <caret line="212" column="207" selection-start-line="212" selection-start-column="207" selection-end-line="212" selection-end-column="207" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="642">
+                <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -172,14 +180,15 @@
         <option value="$PROJECT_DIR$/passage/SRE/The Evolving SRE Engagement Model.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Lessons Learned from Other Industries.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Conclusion.md" />
+        <option value="$PROJECT_DIR$/passage/other/金字塔原理.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="693" />
-    <option name="y" value="363" />
-    <option name="width" value="1254" />
-    <option name="height" value="951" />
+    <option name="x" value="751" />
+    <option name="y" value="23" />
+    <option name="width" value="929" />
+    <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -189,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,12 +219,13 @@
               <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
               <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
               <item name="passage" type="462c0819:PsiDirectoryNode" />
-              <item name="SRE" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -224,7 +233,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/passage/SRE" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -289,18 +298,19 @@
       <workItem from="1582774304996" duration="9460000" />
       <workItem from="1582802353218" duration="4000" />
       <workItem from="1582862563778" duration="8184000" />
-      <workItem from="1582941889604" duration="5608000" />
+      <workItem from="1582941889604" duration="5957000" />
+      <workItem from="1583139558206" duration="2713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160616000" />
+    <option name="totallyTimeSpent" value="163678000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="693" y="363" width="1254" height="951" extended-state="0" />
+    <frame x="751" y="23" width="929" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26312578" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2623853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -317,7 +327,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.39580908" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947864" weight="0.3962704" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50052136" side_tool="true" weight="0.3951049" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -336,9 +346,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/CORS/cors7.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/image/CORS/cors6.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -709,46 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Reliable Product Launches at Scale.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="4284">
-            <caret line="204" column="14" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment at Google.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="63">
-            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Accelerating SREs to On-Call and Beyond.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2877">
-            <caret line="137" selection-start-line="137" selection-end-line="137" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Postmortem Culture: Learning from Failure.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1197">
-            <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passage/SRE/Embedding an SRE to Recover from Operational Overload.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -779,10 +746,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Reliable Product Launches at Scale.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4284">
+            <caret line="204" column="14" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/The Production Environment at Google.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="63">
+            <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Accelerating SREs to On-Call and Beyond.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2877">
+            <caret line="137" selection-start-line="137" selection-end-line="137" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/passage/SRE/Dealing with Interrupts.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
+          <first_editor relative-caret-position="1239">
             <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
           </first_editor>
           <second_editor />
@@ -792,8 +789,18 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Lessons Learned from Other Industries.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="258">
+          <first_editor relative-caret-position="1890">
             <caret line="90" selection-start-line="90" selection-end-line="90" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Postmortem Culture: Learning from Failure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1197">
+            <caret line="57" column="4" selection-start-line="57" selection-start-column="4" selection-end-line="57" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -802,8 +809,18 @@
     <entry file="file://$PROJECT_DIR$/passage/SRE/Conclusion.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="185" column="1" selection-start-line="185" selection-start-column="1" selection-end-line="185" selection-end-column="1" />
+          <first_editor relative-caret-position="37">
+            <caret line="212" column="207" selection-start-line="212" selection-start-column="207" selection-end-line="212" selection-end-column="207" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="642">
+            <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
