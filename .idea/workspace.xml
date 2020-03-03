@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/passage/other/金字塔原理.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passage/other/金字塔原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/other/金字塔原理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/passage/SRE/Conclusion.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="37">
+              <first_editor relative-caret-position="4452">
                 <caret line="212" column="207" selection-start-line="212" selection-start-column="207" selection-end-line="212" selection-end-column="207" />
               </first_editor>
               <second_editor />
@@ -92,8 +92,8 @@
         <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="642">
-                <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+              <first_editor relative-caret-position="178">
+                <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -185,9 +185,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="751" />
+    <option name="x" value="878" />
     <option name="y" value="23" />
-    <option name="width" value="929" />
+    <option name="width" value="1011" />
     <option name="height" value="950" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -299,15 +299,17 @@
       <workItem from="1582802353218" duration="4000" />
       <workItem from="1582862563778" duration="8184000" />
       <workItem from="1582941889604" duration="5957000" />
-      <workItem from="1583139558206" duration="2713000" />
+      <workItem from="1583139558206" duration="3310000" />
+      <workItem from="1583206456960" duration="715000" />
+      <workItem from="1583217145458" duration="3788000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163678000" />
+    <option name="totallyTimeSpent" value="168778000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="23" width="929" height="950" extended-state="0" />
+    <frame x="878" y="23" width="1011" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2623853" />
@@ -796,6 +798,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/passage/SRE/Conclusion.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4452">
+            <caret line="212" column="207" selection-start-line="212" selection-start-column="207" selection-end-line="212" selection-end-column="207" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/passage/SRE/Postmortem Culture: Learning from Failure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -806,21 +818,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/passage/SRE/Conclusion.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="37">
-            <caret line="212" column="207" selection-start-line="212" selection-start-column="207" selection-end-line="212" selection-end-column="207" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="642">
-            <caret line="66" column="10" selection-start-line="66" selection-start-column="10" selection-end-line="66" selection-end-column="10" />
+          <first_editor relative-caret-position="178">
+            <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
