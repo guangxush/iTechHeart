@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/passage/UML/业务建模.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passage/UML/建模与UML.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passage/other/金字塔原理.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/other/金字塔原理.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,12 +89,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="178">
-                <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+              <first_editor relative-caret-position="273">
+                <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/passage/UML/建模与UML.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="262">
+                <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/passage/UML/业务建模.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="586">
+                <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -132,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/passage/二叉树的遍历.md" />
         <option value="$PROJECT_DIR$/passage/排序算法.md" />
         <option value="$PROJECT_DIR$/passage/SSH不同服务器之间免密码登录.md" />
         <option value="$PROJECT_DIR$/passage/无Root权限的Python+TensorFlow环境安装.md" />
@@ -181,11 +205,14 @@
         <option value="$PROJECT_DIR$/passage/SRE/Lessons Learned from Other Industries.md" />
         <option value="$PROJECT_DIR$/passage/SRE/Conclusion.md" />
         <option value="$PROJECT_DIR$/passage/other/金字塔原理.md" />
+        <option value="$PROJECT_DIR$/passage/UML/建模与UML.md" />
+        <option value="$PROJECT_DIR$/passage/UML/业务建模之愿景.md" />
+        <option value="$PROJECT_DIR$/passage/UML/业务建模.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="878" />
+    <option name="x" value="773" />
     <option name="y" value="23" />
     <option name="width" value="1011" />
     <option name="height" value="950" />
@@ -221,12 +248,24 @@
               <item name="passage" type="462c0819:PsiDirectoryNode" />
               <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="passage" type="462c0819:PsiDirectoryNode" />
+              <item name="paper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iTechHeart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iTechHeart" type="462c0819:PsiDirectoryNode" />
+              <item name="passage" type="462c0819:PsiDirectoryNode" />
+              <item name="UML" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,18 +340,19 @@
       <workItem from="1582941889604" duration="5957000" />
       <workItem from="1583139558206" duration="3310000" />
       <workItem from="1583206456960" duration="715000" />
-      <workItem from="1583217145458" duration="3788000" />
+      <workItem from="1583217145458" duration="4593000" />
+      <workItem from="1583476600811" duration="6251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="168778000" />
+    <option name="totallyTimeSpent" value="175834000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="878" y="23" width="1011" height="950" extended-state="0" />
+    <frame x="753" y="25" width="1011" height="950" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2623853" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21671827" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -348,12 +388,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/image/CORS/cors6.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/CORS/cors8.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/passage/415lab/415服务器使用规范.md" />
     <entry file="file://$PROJECT_DIR$/image/Server/RPC11.png">
       <provider selected="true" editor-type-id="images" />
@@ -379,6 +413,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="-231" />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="924">
@@ -386,9 +423,6 @@
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="-231" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/passage/Linux服务器命令.md">
@@ -821,8 +855,28 @@
     <entry file="file://$PROJECT_DIR$/passage/other/金字塔原理.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="178">
-            <caret line="145" column="10" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+          <first_editor relative-caret-position="273">
+            <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/UML/建模与UML.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="262">
+            <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passage/UML/业务建模.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="586">
+            <caret line="119" column="7" selection-start-line="119" selection-start-column="7" selection-end-line="119" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
