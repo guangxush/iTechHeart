@@ -14,7 +14,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 
 同理最大池化过程：
 
-![image-20200325210347109](../../image/keras/CNNMaxPooling.png)
+![image-20200325210347109](../../image/Keras/CNNMaxPooling.png)
 
 详细的计算方法是Input Volume第一个蓝色的图与Filter W0第一个红色图进行点乘（0\*-1+0\*1+0\*0+...以此类推）得到4，第二个蓝色的图与第二个蓝色图点乘得到0，第三个蓝色的图与第三个红色的图点乘得到1，最后加上bias的1得到6这个数字，其余的以此类推，得到Output Volume第一个绿色矩形框，下面用Filter W1进行同样的卷积操作，得到第二个绿色框。
 
@@ -88,7 +88,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 
 ## 计算机视觉发展
 
-![image-20200325210802520](/cvdevelop.png)
+![image-20200325210802520](../../image/Keras/cvdevelop.png)
 
 ## 完整源码
 
