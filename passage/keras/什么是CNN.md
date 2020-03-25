@@ -1,7 +1,21 @@
+---
+typora-copy-images-to: ../../image/Keras
+typora-root-url: ../../image/Keras
+---
+
 ## CNN基本概念与计算方法
 CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域常用的一种深度学习模型。本博客主要介绍CNN的原理和计算方法，然后用Keras搭建两个简单的CNN模型。
-![CNN结构.png](https://github.com/guangxush/iTechHeart/blob/master/image/CNN/CNN1.png)
+![CNN结构.png](../../image/Keras/CNN1.png)
 上图是CNN的卷积操作，图中左侧是输入一个图像为7\*7的RGB图像，所以通道数是3，记为7\*7\*3，这里采用一个3*3的卷积核对图像进行卷积操作，卷积核的通道是3，记为3\*3\*3，滑动的步长为2，原来的图片对周围进行pad为1的操作，这样W0这个卷积核分别对三个通道的图片进行卷积，卷积完成之后相加，得到了Output Volume下面第一个图左上角为6的结果；
+
+卷积计算公式：
+
+![image-20200325210226420](../../image/Keras/CNNCalculate.png)
+
+同理最大池化过程：
+
+![image-20200325210347109](../../image/keras/CNNMaxPooling.png)
+
 详细的计算方法是Input Volume第一个蓝色的图与Filter W0第一个红色图进行点乘（0\*-1+0\*1+0\*0+...以此类推）得到4，第二个蓝色的图与第二个蓝色图点乘得到0，第三个蓝色的图与第三个红色的图点乘得到1，最后加上bias的1得到6这个数字，其余的以此类推，得到Output Volume第一个绿色矩形框，下面用Filter W1进行同样的卷积操作，得到第二个绿色框。
 
 卷积层输出大小计算方式：
@@ -43,7 +57,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 后面的```Flatten()```,是把12\*12\*64变成1维的=9216，剩下的全连接层不再赘述。
 
 具体的参数和输出如下图：
-![image.png](https://github.com/guangxush/iTechHeart/blob/master/image/CNN/CNN2.png)
+![image.png](../../image/Keras/CNN2.png)
 
 
 ## 使用Keras搭建一个一维的卷积神经网络
@@ -63,7 +77,7 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 (44, 4, 1)
 这里要注意对数据进行reshape, 因为Conv1D接收的输入是3维的。
 详细的参数如下：
-![image.png](https://github.com/guangxush/iTechHeart/blob/master/image/CNN/CNN3.png)
+![image.png](../../image/Keras/CNN3.png)
 
 第一层卷积：``` Conv1D(filters=16, kernel_size=2, padding='same', activation='relu', strides=1,
                        name='encoder_1')```
@@ -71,6 +85,10 @@ CNN也叫convnet，中文名称为卷积神经网络，是计算机视觉领域�
 
 第二层池化层，```MaxPooling1D(pool_size=2, name='encoder_2')```,得到2\*16的，因为步长为2。
 剩下的参数可以自行计算。
+
+## 计算机视觉发展
+
+![image-20200325210802520](/cvdevelop.png)
 
 ## 完整源码
 
