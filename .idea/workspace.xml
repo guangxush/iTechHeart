@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="289fa9d6-9b1d-4efe-883a-e2491f1e102e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passage/keras/什么是RNN.md" beforeDir="false" afterPath="$PROJECT_DIR$/passage/keras/什么是RNN.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -103,10 +103,17 @@
       <workItem from="1584947057695" duration="1065000" />
       <workItem from="1585044369162" duration="1034000" />
       <workItem from="1585046777250" duration="156000" />
+      <workItem from="1590285461931" duration="889000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="161" key="new project wizard" timestamp="1590285843156">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="208" y="161" key="new project wizard/0.23.1680.950@0.23.1680.950" timestamp="1590285843156" />
   </component>
 </project>
